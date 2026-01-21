@@ -9,6 +9,6 @@
 <h1>Hello,welcome to my Github page</h1>
 <p><strong>Name:</strong> sandhya</p>
 <p><strong>company:</strong>
-IMTDA.com</p>
+IMTDA INFOTECH PRIVATE LIMITED</p>
 </body>
 </html>
